@@ -1,6 +1,6 @@
 <div class="row">
 	<div class="col-md-2" style="padding: 0px 40px;">
-		<img class="logo" src="img/lspulogo.jpg">
+		<img class="logo" src="img/lspulogo.png">
 	</div>
 	<div class="col-md-9">
 		<div class="row">
